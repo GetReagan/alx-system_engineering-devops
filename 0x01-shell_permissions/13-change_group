@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -c --referene=schoo hello
+chgrp -c --referene=school hello
